@@ -16,6 +16,8 @@ Install the required dependencies:
 
 Run the Tkinter GUI:
 appinter.py
+
+
 Key Features
 Data Preprocessing: Handling missing values, normalization, and feature engineering.
 Model Training: Implementation of KNN and MLP algorithms for heart disease prediction.
