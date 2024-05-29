@@ -20,14 +20,20 @@ appinter.py
 
 Key Features
 Data Preprocessing: Handling missing values, normalization, and feature engineering.
+
+
 Model Training: Implementation of KNN and MLP algorithms for heart disease prediction.
+
+
 User Interface: A Tkinter-based GUI that allows users to input their health data and get predictions.
 How to Use
+
 Launch the Tkinter GUI by running the appinter.py script.
 Enter the required health parameters into the input fields.
 Click the "Predict" button to receive the prediction results.
 The GUI will display whether the user is at risk of heart disease based on the input data.
-Results
+
+Results:
 The model provides a straightforward prediction on the likelihood of heart disease, making it accessible for non-technical users. Detailed evaluation results of the models are included in the results/ directory.
 
 Contact
