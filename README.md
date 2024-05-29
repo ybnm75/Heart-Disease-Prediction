@@ -10,7 +10,7 @@ Multi-Layer Perceptron (MLP)
 A Tkinter-based graphical user interface (GUI) enables users to input health data and receive predictions without needing to understand the underlying code.
 
 Clone the repository:
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/ybnm75/heart-disease-prediction.git
 cd heart-disease-prediction
 Install the required dependencies:
 
